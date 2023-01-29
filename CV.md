@@ -7,18 +7,7 @@ date: 2023-01-29
 
 ### Work
 
-<table>
-    <tr>
-        <th>One</th>
-        <th>Two</th>
-    </tr>
-    <tr>
-        <th>One</th>
-        <th>Two</th>
-    </tr>
-</table>
-
-2022
+#### 2022
 
 Research Assistant \\
 &nbsp;&nbsp;&nbsp;at the Sensorimotor Control and Learning Group by Prof. Loes van Dam, \\
@@ -27,7 +16,7 @@ Research Assistant \\
 
 [Work Homepage](https://www.psychologie.tu-darmstadt.de/sensorimotor/home_sensorimotor/people_sensorimotor/people_details_75584.en.jsp)
 
-2014 - 2022
+#### 2014 - 2022
 
 Student Assistant \\
 &nbsp;&nbsp;&nbsp;at the Chair for Facility and Real Estate Management,\\
@@ -36,4 +25,16 @@ Student Assistant \\
 
 ### Education
 
-2021 
+#### Since 2022
+Psychology/ Computational Cognitive Science
+&nbsp;&nbsp;&nbsp;PhD (ongoing), Technical University Darmstadt
+
+#### 2021 
+
+Computer Scince/ Informatics
+&nbsp;&nbsp;&nbsp;Master of Science, Karlsruhe Institute of Technology
+
+#### 2017
+
+Industrial Engineering and Management
+&nbsp;&nbsp;&nbsp;Bachelor of Science, Karlsruhe Institute of Technology
