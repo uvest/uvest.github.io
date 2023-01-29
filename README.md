@@ -1,8 +1,3 @@
----
-title: "K2Labs"
-date: 2019-01-20
----
-
 Hello World, welcome to by website.
 
 Hi, I am Kai. <br/>
