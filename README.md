@@ -1,9 +1,9 @@
 # K2Labs
 
-[Profile](Profile.md)
+Hello World, welcome to by website.
 
-<!-- Hello World, this is me.
-
+You can find some more background on me on the [Profile](Profile.md) page.
+<!-- 
 Hi, I'm Kai.
 
 I like learning and understanding how things work. Our world, our systems, our minds.
