@@ -10,6 +10,8 @@ Research Assistant \\
 &nbsp;&nbsp;&nbsp;Center for Cognitive Science, Department for Psychology, \\
 &nbsp;&nbsp;&nbsp;Technical University Darmstadt, Germany
 
+[Work Homepage](https://www.psychologie.tu-darmstadt.de/sensorimotor/home_sensorimotor/people_sensorimotor/people_details_75584.en.jsp)
+
 ## Mission
 
 I am studying the mind to learn from the mind. I am building models using artificial neural networks (ANNs) to explain and explore cognitive functions and I ground these models in human data. This approach was lately labeled <i>neuroconnectionsims</i> [Doering et al 2022](https://arxiv.org/abs/2209.03718). It differs from an engineering perspctive on ANNs in that its objective is not optimization of performance per se, but testing and developing theories about the workings of our mind and brain.\\
