@@ -1,12 +1,13 @@
 # Profile
-
-Name: Kai Streiling <br/>
-Position: Research Assistant \\
+|||
+| --- | --- |
+| Name: | Kai Streiling <br/>
+| Position: | Research Assistant \\
             Sensorimotor Control and Learning Group of Prof. Loes van Dam \\
             Center for Cognitive Science \\
             Department for Psychology \\
             Technical University Darmstadt \\
-            Germany
+            Germany |
 
 ### Mission
 I am studying the mind to learn from the mind. I am building models using artificial neural networks (ANNs) to explain and explore cognitive functions and I ground these models in human data. This approach was lately labeled <i>neuroconnectionsims</i> [Doering et al 2022](https://arxiv.org/abs/2209.03718). It differs from an engineering perspctive on ANNs in that its objective is not optimization of performance per se, but testing and developing theories about the workings of our mind and brain.\\
