@@ -4,8 +4,7 @@ Hello World, welcome to by website.
 
 Find some more background information on the [Profile](Profile.md) page.
 
-<!-- 
-Hi, I'm Kai.
+<!-- Hi, I'm Kai.
 
 I like learning and understanding how things work. Our world, our systems, our minds.
 The more complicated the better!

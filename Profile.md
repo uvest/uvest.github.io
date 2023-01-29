@@ -6,9 +6,8 @@ date: 2019-01-20
 ## Position
 
 Research Assistant \\
-&nbsp;&nbsp;&nbsp;at the Sensorimotor Control and Learning Group of Prof. Loes van Dam \\
-&nbsp;&nbsp;&nbsp;Center for Cognitive Science \\
-&nbsp;&nbsp;&nbsp;Department for Psychology \\
+&nbsp;&nbsp;&nbsp;at the Sensorimotor Control and Learning Group by Prof. Loes van Dam, \\
+&nbsp;&nbsp;&nbsp;Center for Cognitive Science, Department for Psychology, \\
 &nbsp;&nbsp;&nbsp;Technical University Darmstadt, Germany
 
 ## Mission
