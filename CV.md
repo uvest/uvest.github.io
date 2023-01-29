@@ -12,8 +12,7 @@ date: 2023-01-29
 Research Assistant \\
 &nbsp;&nbsp;&nbsp;at the Sensorimotor Control and Learning Group by Prof. Loes van Dam, \\
 &nbsp;&nbsp;&nbsp;Center for Cognitive Science, Department for Psychology, \\
-&nbsp;&nbsp;&nbsp;Technical University Darmstadt, Germany
-
+&nbsp;&nbsp;&nbsp;Technical University Darmstadt, Germany\\
 [Work Homepage](https://www.psychologie.tu-darmstadt.de/sensorimotor/home_sensorimotor/people_sensorimotor/people_details_75584.en.jsp)
 
 #### 2014 - 2022
@@ -26,15 +25,15 @@ Student Assistant \\
 ### Education
 
 #### Since 2022
-Psychology/ Computational Cognitive Science
+Psychology/ Computational Cognitive Science\\
 &nbsp;&nbsp;&nbsp;PhD (ongoing), Technical University Darmstadt
 
 #### 2021 
 
-Computer Scince/ Informatics
+Computer Scince/ Informatics\\
 &nbsp;&nbsp;&nbsp;Master of Science, Karlsruhe Institute of Technology
 
 #### 2017
 
-Industrial Engineering and Management
+Industrial Engineering and Management\\
 &nbsp;&nbsp;&nbsp;Bachelor of Science, Karlsruhe Institute of Technology
