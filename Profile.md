@@ -1,6 +1,6 @@
 # Profile
 
-Name: Kai Streiling <br>
+Name: Kai Streiling <br/>
 Position: Research Assistant \\
             Sensorimotor Control and Learning Group of Prof. Loes van Dam \\
             Center for Cognitive Science \\
