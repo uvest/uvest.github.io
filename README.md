@@ -2,7 +2,8 @@
 
 Hello World, welcome to by website.
 
-You can find some more background on me on the [Profile](Profile.md) page.
+Find some more background information on the [Profile](Profile.md) page.
+
 <!-- 
 Hi, I'm Kai.
 
