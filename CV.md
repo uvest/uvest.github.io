@@ -11,7 +11,10 @@ date: 2023-01-29
 
  | 
 --- | --- 
-2022 | Research Assistant
+2022 | Research Assistant <br> at the Sensorimotor Control and Learning Group by Prof. Loes van Dam, \\
+Center for Cognitive Science, Department for Psychology, \\
+Technical University Darmstadt, Germany\\
+[Work Homepage](https://www.psychologie.tu-darmstadt.de/sensorimotor/home_sensorimotor/people_sensorimotor/people_details_75584.en.jsp)
 |
 2019 | example2
 
