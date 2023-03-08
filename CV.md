@@ -9,9 +9,9 @@ date: 2023-01-29
 
 ### Work
 
-Year | What 
+ | 
 --- | --- 
-2022 | example
+2022 | Research Assistant
 |
 2019 | example2
 
