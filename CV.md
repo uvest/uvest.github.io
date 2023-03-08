@@ -3,9 +3,18 @@ title: "CV"
 date: 2023-01-29
 ---
 
-[\[Download\]]({{ site.url }}/download/CV_KS.pdf)
+[\[Download\]]({{ site.url }}/downloads/CV_KS.pdf)
 
 # Kai Streiling
+
+### Work
+
+Year | What 
+--- | --- 
+2022 | example
+|
+2019 | example2
+
 
 ### Work
 
