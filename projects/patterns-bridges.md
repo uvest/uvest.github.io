@@ -1,5 +1,5 @@
 ---
-title: "Patterns-Bridges-and-Staility"
+title: "Patterns Bridges and Stability"
 date: 2022-11-11
 ---
 
