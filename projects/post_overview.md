@@ -1,9 +1,9 @@
 ---
-title: "Posts"
+title: "Projects"
 date: 2023-03-28
 ---
 
-An overview...
+Projects of the past and present:
 
 <ul>
   {% for post in site.posts %}
