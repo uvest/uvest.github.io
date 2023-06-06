@@ -15,9 +15,11 @@ Projects of the past and present:
 
 Tests:
 <ul>
-  {% for project in site.projects %}
+  {% for asset in site.static_files %}
+    {% if asset path contains 'projects' %}
     <li>
-      <a href="{{ project.url }}">{{ project.title }}</a>
+      <a href="{{ asset.url }}">{{ asset.title }}</a>
     </li>
+    {% endif %}
   {% endfor %}
 </ul>
