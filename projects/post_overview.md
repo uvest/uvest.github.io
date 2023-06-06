@@ -17,7 +17,7 @@ Tests:
 <ul>
   {% for project in site.projects %}
     <li>
-      project
+      Hi...
       <a href="{{ project.url }}">{{ project.title }}</a>
     </li>
   {% endfor %}

@@ -11,6 +11,6 @@ You can find here some infos about me, my general work and specific projects. <b
 <!-- From time to time, I am also posting solutions to interesting (technical) problems I encountered. -->
 
 
-* [About me](/About%20me.md)
-* [Projects](/projects/post_overview.md)
+* [About me](/About%20me.html)
+* [Projects](/projects/post_overview.html)
 

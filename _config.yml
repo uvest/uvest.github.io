@@ -4,6 +4,6 @@ theme: minima
 # - jekyll-remote-theme 
 title: K2Labs
 author: uvest
-description: K2-Labs. Profile, projects, blogposts.
+description: K2-Labs.
 collections:
  - _projects
