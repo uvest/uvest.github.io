@@ -5,3 +5,5 @@ theme: minima
 title: K2Labs
 author: uvest
 description: K2-Labs. Profile, projects, blogposts.
+collections:
+ - _projects
