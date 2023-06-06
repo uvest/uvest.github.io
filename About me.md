@@ -12,9 +12,9 @@ At TU-Darmstadt I am part of the <i>[The Adaptive Mind](https://www.theadaptivem
 In our approach we explore implicit measurements of an SoA and ways to model an SoA using methods from OC and ML. We want to find out if the paradigms and models we develop can be applied as early behavioural biomarkers for diagnosing SSD or testing hypotheses about the inner processes of the disorder.
 
 
-[\[Download\]]({{ site.url }}/downloads/CV_KS.pdf)
 
 # Kai Streiling
+[\[Download\]]({{ site.url }}/downloads/CV_KS.pdf)
 
 ### Work
 

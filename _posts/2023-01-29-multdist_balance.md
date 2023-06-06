@@ -14,3 +14,16 @@ Together with [Max](http://lauflabor.ifs-tud.de/doku.php?id=lab_members:lab_memb
 Using a custom VR/ simulation environment we could reconstruct this kind of optical flow illusion and conducted an experiment measuring the body and head motion, muscle activations, and ground forces. Now, Sebastian is exploring methods from (inverse) reinforcement learning (RL/ IRL) to train a controller capable of balancing an inverted pendulum based on comparable visual and proprioceptive inputs. 
 
 With the insights from this study we hope to create more robust control algorithms that can adapt their usage of sensory input. Such improvements could also be usable for smarter prothesis or exoskeleton controllers.
+
+### Showcase
+Some first insights in what the visual part and some extracted optical flow looks like for the agent:
+
+<video controls="controls" width="600" height="300" name="Launching event">
+  <source src="https://uvest.github.io/figures/optical_flow_1.mp4">
+</video>
+
+<video controls="controls" width="600" height="300" name="Launching event">
+  <source src="https://uvest.github.io/figures/optical_flow_3.mp4">
+</video>
+
+... poor agent.

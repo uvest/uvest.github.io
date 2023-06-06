@@ -13,7 +13,8 @@ Projects of the past and present:
   {% endfor %}
 </ul>
 
-Tests:
+<!-- Not working still -->
+<!-- Tests:
 <ul>
   {% for project in site.projects %}
     <li>
@@ -21,4 +22,4 @@ Tests:
       <a href="{{ project.url }}">{{ project.title }}</a>
     </li>
   {% endfor %}
-</ul>
+</ul> -->
