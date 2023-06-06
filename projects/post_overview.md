@@ -12,3 +12,12 @@ Projects of the past and present:
     </li>
   {% endfor %}
 </ul>
+
+Tests:
+<ul>
+  {% for project in site.projects %}
+    <li>
+      <a href="{{ project.url }}">{{ project.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
