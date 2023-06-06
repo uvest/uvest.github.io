@@ -18,12 +18,12 @@ With the insights from this study we hope to create more robust control algorith
 ### Showcase
 Some first insights in what the visual part and some extracted optical flow looks like for the agent:
 
-<video controls="controls" width="600" height="300" name="Launching event">
+<!-- <video controls="controls" width="600" height="300" name="Launching event">
   <source src="https://uvest.github.io/figures/optical_flow_1.mp4">
 </video>
 
 <video controls="controls" width="600" height="300" name="Launching event">
   <source src="https://uvest.github.io/figures/optical_flow_3.mp4">
-</video>
+</video> -->
 
 ... poor agent.
