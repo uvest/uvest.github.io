@@ -16,16 +16,11 @@ Using a custom VR/ simulation environment we could reconstruct this kind of opti
 With the insights from this study we hope to create more robust control algorithms that can adapt their usage of sensory input. Such improvements could also be usable for smarter prothesis or exoskeleton controllers.
 
 ### Showcase
-Some first insights in what the visual part and some extracted optical flow looks like for the agent:
+Some first insights in what the visual part and some extracted optical flow looks like to the agent:
 
 <video controls="controls" width="600" height="300" name="Optical flow 1">
   <source src="https://uvest.github.io/figures/optical_flow_1.webm"/>
 </video>
-
-<video controls="controls" width="600" height="300" name="Copnfusion example 1">
-  <source src="https://uvest.github.io/figures/confusion_example.webm"/>
-</video>
-
 
 <video controls="controls" width="600" height="300" name="Optical flow 3">
   <source src="https://uvest.github.io/figures/optical_flow_3.webm"/>
