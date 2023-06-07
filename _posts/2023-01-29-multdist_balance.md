@@ -25,7 +25,7 @@ Some first insights in what the visual part and some extracted optical flow look
 
 
 <video controls="controls" width="600" height="300" name="Launching event">
-  <source src="https://uvest.github.io/figures/optical_flow_3.mp4" type='video/mp4' />
+  <source src="https://uvest.github.io/figures/optical_flow_3.mp4" type='video/mp4' >
 </video>
 
 ... poor agent.
