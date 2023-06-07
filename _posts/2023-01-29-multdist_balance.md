@@ -19,7 +19,7 @@ With the insights from this study we hope to create more robust control algorith
 Some first insights in what the visual part and some extracted optical flow looks like for the agent:
 
 <video controls="controls" width="600" height="300" name="Optical flow 1">
-  <source src="https://uvest.github.io/figures/optical_flow_1.mp4" type='video/mp4' />
+  <source src="https://uvest.github.io/figures/optical_flow_1.webm" />
 </video>
 
 <video controls="controls" width="600" height="300" name="Copnfusion example 1">
